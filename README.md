@@ -1,0 +1,2 @@
+# registry
+Malice Plugin Registry
