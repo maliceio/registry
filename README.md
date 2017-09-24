@@ -20,3 +20,5 @@ Use the following process to submit packages (please only submit your own work/p
 6. Add a line for every `plugin repo` **url** along with the latest `git commit` **sha256** hash AND `docker image` version **tag**
 6. Commit/push the changes you made to your fork.
 7. Submit a [pull request](https://github.com/bro/packages/compare).
+
+> **NOTE:** this repo will be signed so that malice can :white_check_mark: verify my signature during updates
